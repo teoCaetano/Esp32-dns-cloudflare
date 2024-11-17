@@ -3,14 +3,14 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char *ssid = "grafik 2.4";               // Replace with your network SSID
-const char *password = "mHG6psubrsj4hB6t8jKb"; // Replace with your network password
+const char *ssid = "xxx";               // Replace with your network SSID
+const char *password = "xxx"; // Replace with your network password
 
-const char *zone_id = "9e6ba0ea268860921e9ed6060ffde2de";   // Replace with your Cloudflare zone ID
-const char *record_id = "30ab8be3c3d44e9f243c21ea5a52a567"; // Replace with your Cloudflare record ID
-const char *api_mail = "molinateo488@gmail.com";
-const char *api_token = "2043a651f8525b3c15e8a648bc7ec63ec3dba"; // Replace with your Cloudflare API token
-const char *domain = "vagabundo.website";                           // Replace with your domain
+const char *zone_id = "xxx";   // Replace with your Cloudflare zone ID
+const char *record_id = "xxx"; // Replace with your Cloudflare record ID
+const char *api_mail = "xxx";
+const char *api_token = "xxx"; // Replace with your Cloudflare API token
+const char *domain = "xxx";                           // Replace with your domain
 
 const char *publicIP ;
 
